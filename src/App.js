@@ -4,7 +4,7 @@ import Main from "./Main";
 import New from "./New";
 import Menu from "./Menu";
 import { BrowserRouter as Router, Route } from 'react-router-dom';  // Route 컴포넌트 imort
-import './App.css';
+import './css/App.css';
 
 
 const App = () => {
